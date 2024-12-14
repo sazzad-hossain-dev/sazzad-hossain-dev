@@ -1,4 +1,8 @@
-<img alt="propife" src="https://raw.githubusercontent.com/sazzad-hossain-dev/sazzad-hossain-dev/main/header.png" width="80px">
+<img alt="profile" src="https://raw.githubusercontent.com/sazzad-hossain-dev/sazzad-hossain-dev/main/header.png" width="80px" height="80px" style="border-radius: 50%; display: block; object-fit: cover;">
+
+
+
+
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
