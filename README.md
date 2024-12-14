@@ -8,7 +8,7 @@
 
 ## [![Twitter Badge](https://img.shields.io/badge/-@sazzadhossain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sazzadhossain0)](https://twitter.com/sazzadhossain0) [![Linkedin Badge](https://img.shields.io/badge/-sazzadhossain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sazzadhossain/)](https://www.linkedin.com/in/sazzadhossain/) [![Gmail Badge](https://img.shields.io/badge/-sazzad.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sazzad.dev@gmail.com)](mailto:sazzad.dev@gmail.com)
 
-- 🔭 I’m currently working on frontend development projects
+- 🔭 I’m currently working on my frontend skill
 - 📫 How to reach me: [sazzad-hossain-dev](https://github.com/sazzad-hossain-dev)
 - ⚡ Fun fact: I enjoy building sleek user interfaces
 
